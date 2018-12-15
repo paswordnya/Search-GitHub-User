@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#065E52</color>
+    <color name="colorPrimaryDark">#054E43</color>
+    <color name="colorAccent">#96BCB7</color>
+
+    <color name="colorTextPrimary">#000000</color>
+    <color name="colorTextDisable">#66FFFFFF</color>
+
+    <color name="ss_colorPrimary">#05b0ca</color>
+    <color name="ss_colorPrimaryDark">#066797</color>
+    <color name="ss_colorAccent">#95ff00</color>
+
+    <color name="ss_progress_startColor">#ffffd300</color>
+    <color name="ss_progress_endColor">#ffffcb00</color>
+    <color name="ss_progress_centerColor">#ffffb600</color>
+
+    <color name="ss_secondaryProgress_startColor">#80ffd300</color>
+    <color name="ss_secondaryProgress_endColor">#a0ffcb00</color>
+    <color name="ss_secondaryProgress_centerColor">#80ffb600</color>
+
+    <color name="ss_background_startColor">#ff9d9e9d</color>
+    <color name="ss_background_endColor">#ff747674</color>
+    <color name="ss_background_centerColor">#ff5a5d5a</color>
+
+    <color name="trans">#751a74e1</color>
+    <color name="material_light_primary_text">#1a74e1</color>
+    <color name="material_light_hint_text">#61000000</color>
+    <color name="material_light_active_icon">#8A000000</color>
+    <color name="material_ripple_light">#1F000000</color>
+    <color name="quantum_grey_600">#757575</color>
+
+    <color name="divider_color">#1FFFFFFF</color>
+    <color name="active_icon_color">@android:color/white</color>
+</resources>
