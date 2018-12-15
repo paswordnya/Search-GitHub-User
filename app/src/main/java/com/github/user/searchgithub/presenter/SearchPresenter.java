@@ -1,6 +1,5 @@
 package com.github.user.searchgithub.presenter;
 
-import android.util.Log;
 
 import com.github.user.searchgithub.model.UserResponseAPI;
 import com.github.user.searchgithub.network.Api;
