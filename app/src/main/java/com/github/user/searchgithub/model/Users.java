@@ -4,10 +4,6 @@ package com.github.user.searchgithub.model;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
-/**
- * Created by moyinoluwa on 1/10/17.
- */
-
 public class Users {
 
     @SerializedName("login")
